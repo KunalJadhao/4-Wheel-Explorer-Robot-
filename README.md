@@ -1,4 +1,8 @@
+🛠️ My 4-Wheel Autonomous Robot URDF
 
+A simple 4-wheeled differential drive robot model created using URDF (Unified Robot Description Format) for ROS/ROS2 simulations.
+This robot is designed for use in RViz and Gazebo for visualization, navigation experiments, and robotics learning.
+📷 Preview
 urdf_tutorial/
 │
 ├── urdf/
