@@ -9,8 +9,8 @@ This robot is designed for use in **RViz** and **Gazebo** for visualization, nav
 ## 📷 Preview
 
 ![image_alt](https://github.com/KunalJadhao/4-Wheel-Autonomous-Robot-/blob/main/Screenshot%20from%202025-08-08%2010-49-23.png)
-![image_alt]([https://github.com/KunalJadhao/4-Wheel-Autonomous-Robot-/blob/main/Screenshot%20from%202025-08-08%2010-49-23.png](https://github.com/KunalJadhao/4-Wheel-Autonomous-Robot-/blob/51c3403f5f4b3ef3c7964144e13ed681dbb8b7ba/Screenshot%20from%202025-08-08%2010-49-08.png))
-![image_alt]([https://github.com/KunalJadhao/4-Wheel-Autonomous-Robot-/blob/main/Screenshot%20from%202025-08-08%2010-49-23.png](https://github.com/KunalJadhao/4-Wheel-Autonomous-Robot-/blob/51c3403f5f4b3ef3c7964144e13ed681dbb8b7ba/Screenshot%20from%202025-08-08%2010-49-16.png))
+![image_alt](https://github.com/KunalJadhao/4-Wheel-Autonomous-Robot-/blob/main/Screenshot%20from%202025-08-08%2010-49-08.png?raw=true)
+![image_alt](https://github.com/KunalJadhao/4-Wheel-Autonomous-Robot-/blob/main/Screenshot%20from%202025-08-08%2010-49-16.png?raw=true)
 ![image_alt]([https://github.com/KunalJadhao/4-Wheel-Autonomous-Robot-/blob/main/Screenshot%20from%202025-08-08%2010-49-23.png](https://github.com/KunalJadhao/4-Wheel-Autonomous-Robot-/blob/51c3403f5f4b3ef3c7964144e13ed681dbb8b7ba/Screenshot%20from%202025-08-08%2010-51-18.png))
 
 ---
