@@ -8,7 +8,7 @@ This robot is designed for use in **RViz** and **Gazebo** for visualization, nav
 
 ## 📷 Preview
 
-(<img width="1920" height="1200" alt="Screenshot from 2025-08-08 10-49-08" src="https://github.com/user-attachments/assets/e067efe0-5d8f-456a-80ff-110cdb90de6f" />
+(<img width="1920" height="1200" alt="file:///C:/Users/Kunal/Videos/Screenshot%20from%202025-08-08%2010-49-16.png" src="https://github.com/user-attachments/assets/e067efe0-5d8f-456a-80ff-110cdb90de6f" />
 )
 (<img width="1920" height="1200" alt="Screenshot from 2025-08-08 10-49-16" src="https://github.com/user-attachments/assets/7cdbbdf5-45b4-4dfd-86f8-1937013e560f" />
 )
