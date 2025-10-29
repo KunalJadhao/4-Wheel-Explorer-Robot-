@@ -69,3 +69,26 @@ kunal_ws/
 ```bash
 cd ~/kunal_ws
 source install/setup.bash
+
+2️⃣ Launch the robot in RViz
+ros2 launch my_robot_description display.launch.xml
+
+3️⃣ Launch the robot in Gazebo
+ros2 launch my_robot_bringup my_robot_gazebo.launch.xml
+
+4️⃣ Connect ROS2 with Gazebo
+ros2 run ros_gz_bridge parameter_bridge /clock@rosgraph_msgs/msg/Clock[gz.msgs.Clock]
+
+---
+🧠 Features
+
+🛞 4-Wheel differential drive system
+
+🪞 URDF visualization in RViz
+
+🌍 Simulation in Gazebo Fortress
+
+🔗 ROS2 ↔ Gazebo bridge for data sync
+
+💡 Clean and modular workspace structure for scalability
+
