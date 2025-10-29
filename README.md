@@ -158,6 +158,3 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 🌟 **Created with passion by Kunal | ROS2 • Robotics • Imagination**
 
-
- (Photos/TERMINAL.png)
-```
