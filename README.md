@@ -10,7 +10,6 @@ Crafted with precision by *Kunal*, this project bridges imagination and simulati
 Here’s the layout of my workspace — everything built and organized with intention.
 
 ```bash
-kunal_ws/
 ├── src/
 │   ├── my_robot_description/                # Contains robot description (URDF + RViz launch)
 │   │   ├── urdf/
