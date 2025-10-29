@@ -67,44 +67,6 @@ ros2 launch my_robot_bringup my_robot_gazebo.launch.xml
 
 ros2 run ros_gz_bridge parameter_bridge /clock@rosgraph_msgs/msg/Clock[gz.msgs.Clock]
 
-🧠 Features
-
-    🛞 4-Wheel differential drive system.
-
-    🪞 URDF visualization in RViz.
-
-    🌍 Simulation in Gazebo Fortress.
-
-    🔗 ROS2 ↔ Gazebo bridge for data sync.
-
-    💡 Clean and modular workspace structure for scalability.
-
-📸 Simulation Snapshot
-
-Here’s a glimpse from my simulated world 👇
-(Captured from my Ubuntu desktop)
-
-💬 Future Scope
-
-✨ Adding autonomous navigation using ROS2 Nav2.
-✨ Integrating sensors like LiDAR and camera for mapping.
-✨ Creating SLAM-based navigation with real-time visualization.
-🧑‍💻 Author
-
-Kunal Jadhav
-Robotics Enthusiast | Learner | Creator
-📍 Maharashtra, India
-
-    "Every robot I build is a reflection of my persistence —
-    not just metal and code, but fragments of my own evolution."
-
-🌟 Acknowledgements
-
-Special thanks to the open-source robotics community for guidance, ROS2 documentation, and countless cups of coffee that made this dream come alive ☕🤖.
-⭐ If you like my project, don’t forget to star the repo and follow my journey into robotics!
 
 
----
-
-Would you like me to include **badges (like ROS2 version, license, etc.)** and a **project banner** at the top for extra professional touch?
 
