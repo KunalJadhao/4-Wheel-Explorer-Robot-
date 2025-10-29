@@ -162,5 +162,5 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 ---
 
-Would you like me to make a **banner image** (like a header with “TERRABOT – ROS2 4-Wheel Robot”) for the top of this README too, so it looks professional when uploaded to GitHub?
+[RViz Screenshot](Photos/RVIZ.png)
 ```
