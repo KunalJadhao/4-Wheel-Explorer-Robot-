@@ -65,7 +65,7 @@ kunal_ws/
 
 ## 🚀 How to Run
 
-### 1️⃣ Source the workspace
+1️⃣ Source the workspace
 ```bash
 cd ~/kunal_ws
 source install/setup.bash
@@ -80,7 +80,6 @@ ros2 launch my_robot_bringup my_robot_gazebo.launch.xml
 ros2 run ros_gz_bridge parameter_bridge /clock@rosgraph_msgs/msg/Clock[gz.msgs.Clock]
 
 ---
-
 🧠 Features
 
 🛞 4-Wheel differential drive system
@@ -92,4 +91,5 @@ ros2 run ros_gz_bridge parameter_bridge /clock@rosgraph_msgs/msg/Clock[gz.msgs.C
 🔗 ROS2 ↔ Gazebo bridge for data sync
 
 💡 Clean and modular workspace structure for scalability
+
 
