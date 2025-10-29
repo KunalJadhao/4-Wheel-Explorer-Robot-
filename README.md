@@ -99,7 +99,7 @@ Use teleop or custom scripts to move your TERRABOT around your simulated world.
 
 | RViz View                                | Gazebo Simulation                            |
 | ---------------------------------------- | -------------------------------------------- |
-| ![RViz Screenshot](Photos/RVIZ.png) | ![Gazebo Screenshot](images/gazebo_view.png) |
+| ![RViz Screenshot](Photos/RVIZ.png) | ![Gazebo Screenshot](Photos/GAZEBO.png) |
 
 *(You can later replace these with your actual screenshots.)*
 
