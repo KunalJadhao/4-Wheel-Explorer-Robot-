@@ -101,7 +101,8 @@ Use teleop or custom scripts to move your TERRABOT around your simulated world.
 | ---------------------------------------- | -------------------------------------------- |
 | ![RViz Screenshot](Photos/RVIZ.png) | ![Gazebo Screenshot](Photos/GAZEBO.png) |
 
-*(You can later replace these with your actual screenshots.)*
+🎬 [Watch simulation video](Photos/SIMULATION.webm)
+
 
 ---
 
