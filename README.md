@@ -1,6 +1,6 @@
-# 🤖 NEXABOT — The Four-Wheeled ROS2 Explorer
+# 🤖 TERRABOT — The Four-Wheeled ROS2 Explorer
 
-Welcome to **NEXABOT**, a simulated **4-wheel mobile robot** built using **ROS2**, **Gazebo Fortress**, and **RViz2**.  
+Welcome to **TERRABOT**, a simulated **4-wheel mobile robot** built using **ROS2**, **Gazebo Fortress**, and **RViz2**.  
 Crafted with precision by *Kunal*, this project bridges imagination and simulation — a stepping stone toward robotics mastery.
 
 ---
@@ -33,7 +33,7 @@ Here’s the layout of my workspace — everything built and organized with inte
 ## ⚙️ Setup & Installation
 
 Before running TERRABOT, ensure that you have:
-- **ROS2 Humble (or later)** installed  
+- **ROS2 Humble** installed  
 - **Gazebo Fortress / Garden** installed and working  
 - All dependencies sourced correctly  
 
