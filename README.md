@@ -80,7 +80,8 @@ ros2 launch my_robot_bringup my_robot_gazebo.launch.xml
 ros2 run ros_gz_bridge parameter_bridge /clock@rosgraph_msgs/msg/Clock[gz.msgs.Clock]
 
 ---
-🧠 Features
+
+## 🧠 Features
 
 🛞 4-Wheel differential drive system
 
